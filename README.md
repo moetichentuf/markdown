@@ -11,12 +11,12 @@
 
 <!-- H2 -->
 
-## Me in one sentence
+## Junior Web Developer
 
 <!-- Table -->
 || |
 |:--------|:--------|
-|Birthday|12 juni| 
+|Birthday|12/06/1997| 
 |Gender|man| 
 |Favorite color|blue|
 |Favorite food| lasagne|
@@ -30,6 +30,19 @@
     
     * Procreate
     * Photoshop
+
+<!-- H4 -->
+
+### You can always count on me when
+- You need help
+
+<!-- H5 -->
+
+#### A funny story
+
+Don't have enough time to think about one :(
+
+
     
     [Previous](https://github.com/EddyGHendrickx/challenge-markdown/blob/master/README.md)
 
