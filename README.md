@@ -7,7 +7,7 @@
 
 <!-- Images -->
 
-![moeti](moeti.jpeg)
+![moeti](moeti)
 
 <!-- H2 -->
 
@@ -20,4 +20,14 @@
 |Gender|man| 
 |Favorite color|blue|
 |Favorite food| lasagne|
-|Pineapple on pizza| - [x]|
+|Pineapple on pizza|no|
+
+<!-- H3 -->
+## Hobbies
+
+
+* Digital Drawing
+    
+    * Procreate
+    * Photoshop
+    
