@@ -31,3 +31,6 @@
     * Procreate
     * Photoshop
     
+    [Previous](https://github.com/EddyGHendrickx/challenge-markdown/blob/master/README.md)
+
+    [Next](https://github.com/nbenin/neil-repo)
