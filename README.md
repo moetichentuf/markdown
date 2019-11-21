@@ -42,8 +42,9 @@
 
 Don't have enough time to think about one :(
 
-
+<!-- links -->
     
-    [Previous](https://github.com/EddyGHendrickx/challenge-markdown/blob/master/README.md)
+   
+ [Previous](https://github.com/EddyGHendrickx/challenge-markdown/blob/master/README.md)
 
-    [Next](https://github.com/nbenin/neil-repo)
+ [Next](https://github.com/nbenin/neil-repo)
