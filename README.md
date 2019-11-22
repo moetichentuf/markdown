@@ -31,6 +31,8 @@
     * Procreate
     * Photoshop
 
+* Cooking
+
 <!-- H4 -->
 
 ### You can always count on me when
@@ -40,7 +42,7 @@
 
 #### A funny story
 
-Don't have enough time to think about one :(
+I got woken up by the police and the fire department one time, both standing in my room...
 
 <!-- links -->
     
